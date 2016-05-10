@@ -7,4 +7,5 @@ def dodawanie():
 def get_info():
 	print("To jest program kalkulator. Autror: UEP")
 
+get_info()
 dodawanie()
