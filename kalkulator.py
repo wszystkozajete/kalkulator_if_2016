@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def dodawanie():
 	a=int(input())
 	b=int(input())
@@ -9,3 +10,12 @@ def get_info():
 
 get_info()
 dodawanie()
+=======
+def dodawanie(a,b):
+	return a+b
+a=int(input())
+b=int(input())
+print(dodawanie(a,b))
+
+
+>>>>>>> zmiana_funkcji_dodawania
